@@ -31,7 +31,7 @@ like you are two steps behind everyone else—and the competition is fierce. And
 when you do get ahead, you have to be very careful because everyone you know
 wants to rob you.
 
-Making money from code is equally hard. You have to be *practiced *at your
+Making money from code is equally hard. You have to be *practiced* at your
 craft, and you will feel like you are two steps behind everyone—at least for the
 first year. The competition is nothing to worry about once you have practiced
 enough, but just like the crime world you will be at the bottom of the food
@@ -65,7 +65,7 @@ easy. In fact many people never become reliable at writing code. Even the most
 experienced people can completely fuck up the architecture for the backend for
 an application with multiple user interfaces, for instance. This can screw an
 entire million dollar project sideways. I’ve seen this happen and I have seen
-coders who are *much *more skilled than myself get fired for being unreliable or
+coders who are *much* more skilled than myself get fired for being unreliable or
 unteachable.
 
 This book is about becoming a reliable coder and using that as a stepping stone
@@ -73,8 +73,8 @@ to other things.
 
  
 
-2. You, are a Minion. 
-----------------------
+2. You, are a Minion.
+---------------------
 
 I will lay out in this chapter what you must do to become the lowest of the low
 level ‘developers’. This path may not be for everyone; adjust as you see fit.
@@ -190,7 +190,7 @@ My first coding interview was for a big company in silicon valley that my genius
 drop out friend worked at. I only got the interview because of him—and because I
 could answer a few ruby questions over the phone that the pre-screener asked.
 What are the two ways to look up a hash key in ruby(sort of a trick question I
-guess, the answer is by key and by string)? What does `@@ `mean in ruby? Simple
+guess, the answer is by key and by string)? What does `@@`mean in ruby? Simple
 stuff.
 
 When they let me know I had scored a full interview I was stoked. At this point
@@ -286,6 +286,9 @@ cut is an embarrassment. In the old days new students would train the vertical
 cut alone for years because it is the hardest to perfect—it is from this base
 that all other strategy flows.[^1]
 
+[^1]: Now days, the masters move students through all the cuts as quickly as
+possible, because otherwise they will lose interest and not return to class.
+
 Some will argue that an esoteric text like SICP is overly difficult and out of
 date. They will argue that there are newer, better texts that will get you to
 the same level of understanding quicker. To these people I say, ‘bull shit’. An
@@ -298,9 +301,6 @@ real programmer guy job or a computer science degree. My first boss had gone
 through SICP at university and was fond of Lisp like me; once I realized this I
 put a lisp slant on everything else I said for the rest of the interview and got
 hired immediately. Camaraderie should not be underestimated!
-
-[^1]: Now days, the masters move students through all the cuts as quickly as
-possible, because otherwise they will lose interest and not return to class.
 
  
 
@@ -344,3 +344,50 @@ I often wonder to myself if it was worth it. YMMV.
 You must have an objective beyond coding, and setting that objective will be
 difficult in your infant stages. You are just discovering what you are capable
 of, just now finally puling back the blinders from your eyes.
+
+It does take a degree of obsession to be good at anything, but if coding is the
+be-all end-all of your existence, you’re doing it wrong.
+
+Instead, think about how the abstractions you build hold the potential to
+automate things you do frequently. Ultimately, computers exist so that we don’t
+have to repeat the same tasks over and over. It logically follows that we must
+have wanted to save time when we created them. But why did we want to save time?
+
+At MIT in the 1970s a group of computer scientists and engineers came together
+and created something artful yet well engineered. It wasn’t till this time that
+the nature of the modern coder was birthed. It was at the famed psychedelic MIT
+compsci parties that the greatest minds of our craft met, mingled, and in many
+cases married. I doubt that they would want us slaving away in front of a
+monitor for 60 hours a week for cash; that’s not what any of this was ever
+about.
+
+Instead, it was a search for the limits of the human spirit and mind; and
+attempt to push the boundaries of our existence.
+
+Now you can make a lot of money writing code, and often the boss will want you
+to work more hours instead of less. It is an environment that pushes people to
+become workaholics, which is a cultural problem. But it is also something we
+have control over as individuals. You choose whether you let someone else make
+your life stressful, you choose how many hours a week you work.
+
+Find other things you enjoy doing. Go to shows, talk to real people who you
+would never usually interact with, go on a bike ride. Anything really. You’ll be
+amazed at how similar everyone is and you’ll begin, thanks to your new training,
+to notice patterns within society and even within individuals. These patterns
+are no mistake, and that you would have curiosity to understand these things is
+paramount to the path of the polymath. If we were simply meant to be code
+cranking workaholics God would have just invented the metalinguistic evaluator
+and given it to the chimps. But he didn’t. Our history is rich and full of life,
+it’s a shame to discount that!
+
+ 
+
+8. Law and Freedom \| Hackers and Polymaths
+-------------------------------------------
+
+The direction of this book is inherently in opposition with the society we live
+in. This is a scary thing for me as an author and as a hacker. I worry that I am
+encouraging another generation of greedy yuppies, and that is not the intention.
+Instead I will spend some time now explaining the nature of the human spirit as
+it relates to our modern (rhetorical) concepts of law (oppression) and freedom
+(false promise).
